@@ -1,5 +1,5 @@
 ## License & Disclaimer
-Same license and disclaimer stands as in main repo: [krisu5 / aegis-icons](https://github.com/krisu5/aegis-icons).
+Same license and disclaimer stands as in [main repo](https://github.com/aegis-icons/aegis-icons).
 
-- https://github.com/krisu5/aegis-icons/blob/master/LICENSE.md
-- https://github.com/krisu5/aegis-icons#disclaimer
+- https://github.com/aegis-icons/aegis-icons/blob/master/LICENSE.md
+- https://github.com/aegis-icons/aegis-icons#disclaimer
